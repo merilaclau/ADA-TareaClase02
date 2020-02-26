@@ -1,0 +1,34 @@
+body {
+    background-color: lightgreen;
+    color: cornflowerblue;
+    font-style: italic;
+}
+
+h1 {
+    color: darkviolet;
+    font-weight: 800;
+    font-style: inherit;
+    font-size: 28px;
+}
+
+h2 {
+    color: darkviolet;
+    background-color: pink;
+    font-weight: 500;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.parrafo-estandar {
+    font-weight: 400;
+    font-style: oblique;
+    font-size: 16px;
+}
+
+#parrafo-2 {
+    font-weight: 500;
+    font-style: initial;
+    font-size: 16px;
+    color:#FFFFFF;
+    background-color: salmon;
+}
